@@ -2,7 +2,7 @@
 
 ### 1 Download & Install App
 
-download link:https://github.com/LilyGO/TTGO-T-thruster/blob/master/wifiplane.apk
+download link:https://github.com/LilyGO/TTGO-T-thruster/raw/master/wifiplane.apk
 
 ![image](https://github.com/LilyGO/TTGO-T-thruster/blob/master/image/image1.jpg)
 
